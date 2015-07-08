@@ -1,0 +1,5 @@
+ruby ModifyDICOM.rb [input file],[output file],[patient id]
+
+
+¨Ò:
+ruby ModifyDICOM.rb D:\dcmerr\MG33L8HH D:\dcmerr\MG33L8HHnew C220805837
